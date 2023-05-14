@@ -65,6 +65,13 @@ channels = [
 ]
 
 
+# channels = [
+#     {'title': '台視', 'id': '4gtv-4gtv066', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png'}, 
+#     {'title': '中視', 'id': '4gtv-4gtv040', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png'}, 
+#     {'title': '華視', 'id': '4gtv-4gtv041', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png'} 
+# ]
+
+
 def get4gtvM3u8(mediaType,id):
     url = 'https://api.ofiii.com/cdi/v3/rpc'
     payload = {"jsonrpc":"2.0","id":123,"method":"LoadService.GetURLs","params":{"device_type":"pc"}}
@@ -136,11 +143,11 @@ def main():
         out = out+'#EXTINF:-1 tvg-logo="'+ image + '" tvg-name="'+title+'" group-title="ofiii",'+title+'\n'+m3u8 + '\n'
         txt += title + ','+ m3u8 + '\n'
 
-    with open("ofiii.m3u",'w',encoding='utf-8') as f:
+    with open("channel.m3u",'w',encoding='utf-8') as f:
         f.write(out)
     f.close()
 
-    with open("ofiii.txt",'w',encoding='utf-8') as f:
+    with open("channel.txt",'w',encoding='utf-8') as f:
         f.write(txt)
     f.close()
 
