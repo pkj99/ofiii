@@ -1,8 +1,8 @@
-name: run main.py
+name: ofiii channels by main.py
 
 on:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
@@ -23,17 +23,17 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script # run main.py
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
+        # env:
+        #   SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python main.py
 
-      - name: commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
-          git push
+      # - name: commit files
+      #   run: |
+      #     git config --local user.email "action@github.com"
+      #     git config --local user.name "GitHub Action"
+      #     git add -A
+      #     git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+      #     git push
 
 
       # - name: commit files
@@ -52,19 +52,19 @@ jobs:
 
 
 
-      # - name : Upload artifact
-      #   uses: actions/upload-artifact@master
-      #   with:
-      #     name: ofiii.m3u
-      #     path: .
+      - name : Upload artifact
+        uses: actions/upload-artifact@master
+        with:
+          name: ofiii.m3u
+          path: .
 
-      # - name: Git push assets to "channel" branch
-      #   run: |
-      #     git init
-      #     git config --local user.name "actions"
-      #     git config --local user.email "action@github.com"
-      #     git checkout -b channel
-      #     git add .
-      #     git commit -m "Update channel"
-      #     git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-      #     git push -f -u origin channel
+      - name: Git push assets to "channel" branch
+        run: |
+          git init
+          git config --local user.name "actions"
+          git config --local user.email "action@github.com"
+          git checkout -b channel
+          git add .
+          git commit -m "Update channel"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin channel
