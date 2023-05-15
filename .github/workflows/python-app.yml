@@ -61,18 +61,18 @@ jobs:
 
       - name: Git push assets to "channel" branch
         run: |
-          git config --local user.name "actions"
-          git config --local user.email "action@github.com"
-          git add .
-          git commit -m "Update channel"
-          git push
-
-
-          # git init
           # git config --local user.name "actions"
           # git config --local user.email "action@github.com"
-          # git checkout -b channel
           # git add .
           # git commit -m "Update channel"
-          # git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          # git push -f -u origin channel
+          # git push
+
+
+          git init
+          git config --local user.name "actions"
+          git config --local user.email "action@github.com"
+          git checkout -b channel
+          git add *.m3u
+          git commit -m "Update channel"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin channel
