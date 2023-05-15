@@ -34,23 +34,12 @@ jobs:
       #     git config --local user.name "GitHub Action"
       #     git add -A
       #     git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
-      #     git push
-
-
-      # - name: commit files
-      #   run: |
-      #     git config --local user.email "action@github.com"
-      #     git config --local user.name "GitHub Action"
-      #     git add -A
-      #     git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
           
       # - name: push changes
       #   uses: ad-m/github-push-action@v0.6.0
       #   with:
       #     github_token: ${{ secrets.GITHUB_TOKEN }}
       #     branch: main 
-
-
 
 
       - name : Upload artifact
@@ -61,20 +50,12 @@ jobs:
 
       - name: Git push assets to "channel" branch
         run: |
-          # git config --local user.name "actions"
-          # git config --local user.email "action@github.com"
-          # git add .
-          # git commit -m "Update channel"
-          # git push
-
-
           git init
           git config --local user.name "actions"
           git config --local user.email "action@github.com"
           git checkout -b channel
-          git add *.m3u
+          git add .
           git commit -m "Update channel"
-          # git push -f -u origin channel
           git push --set-upstream origin channel
 
           # git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"

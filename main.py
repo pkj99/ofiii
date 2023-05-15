@@ -107,25 +107,6 @@ def getOfiiiM3u8(id):
     m3u8 = get4gtvM3u8(mediaType,id)
     return m3u8
 
-def genJsonData():
-    with open('ofiii.html','r',encoding='utf-8') as f:
-        data = f.read()
-    root = bs4.BeautifulSoup(data, "html.parser")
-    div = root.find_all("a")
-    channels = []
-    for a in div:
-        title = a['title']
-        href = a['href']
-        id = href.split('/')[-1]
-        image = a.find('img')['src']
-        item = {}
-        item['title'] = title
-        item['id'] = id
-        item['image'] = image
-        channels.append(item)
-    print(channels)
-
-
 
 def main():
     out = '#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"\n'
@@ -143,11 +124,20 @@ def main():
         out = out+'#EXTINF:-1 tvg-logo="'+ image + '" tvg-name="'+title+'" group-title="ofiii",'+title+'\n'+m3u8 + '\n'
         txt += title + ','+ m3u8 + '\n'
 
-    with open("channel.m3u",'w',encoding='utf-8') as f:
+        outFile = title+'.m3u8'
+        f = open(outFile,'w',encoding='utf-8')
+        f.write(f'#EXTM3U\n')
+        f.write(f'#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1920x1080\n')
+        f.write(f'{m3u8}\n')
+        f.close()
+
+
+
+    with open("tv.m3u",'w',encoding='utf-8') as f:
         f.write(out)
     f.close()
 
-    with open("channel.txt",'w',encoding='utf-8') as f:
+    with open("tv.txt",'w',encoding='utf-8') as f:
         f.write(txt)
     f.close()
 
