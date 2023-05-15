@@ -1,7 +1,21 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" tvg-name="台視" group-title="ofiii",台視
-https://ocean.ofiii.com/hls/v1/playlist/RShYKpKOwEI/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/XP1np7aG-H4/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" tvg-name="中視" group-title="ofiii",中視
-https://ocean.ofiii.com/hls/v1/playlist/maxi2j9ECb8/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/ntm777y7sgo/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" tvg-name="華視" group-title="ofiii",華視
-https://ocean.ofiii.com/hls/v1/playlist/Cw6obtjrB_o/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/hcOMzlKApSo/master.m3u8
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="民視頻道HD",民视
+https://4gtvfreemobile-mozai.4gtv.tv/TmAV1YLV73zjyELhpOf4CfKs6uVSymWal0MDJVSeBCI%3d/stream2.m3u8?token=rbK6oRNojBnl5EU1hOoA7A&expires=1684150849&token1=7s2JwC_s9zRYSOWcZr3pNQ&expires1=1684179649&refer=YzdlOGJlZDMtZDhjOC00MjBjLWFlZTQtZWZlNzJjODM3NTQ0&y=0
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="民視頻道HD",民视第一台
+https://4gtvfreemobile-mozai.4gtv.tv/TmAV1YLV73zjyELhpOf4CZdPiFGo2EGSs3nn7E8Lz0Q%3d/stream2.m3u8?token=gVGT8HKXzQCqqLOnZcOkIw&expires=1684150849&token1=IQObFC421FICxO7t2Zb0wQ&expires1=1684179649&refer=MDM5NGY3NWMtNjkwNS00NDhkLWE2YTAtNjBjYjg5OGRlYjAx&y=0
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="民視頻道HD",民视台湾台
+https://4gtvfreemobile-mozai.4gtv.tv/TmAV1YLV73zjyELhpOf4CfhuHZZOXVh6G0VoPKuMqLs%3d/stream2.m3u8?token=bvIXXXcfCUVnGB6K5K7asQ&expires=1684150849&token1=USxFdkk8CyfvaSDrmJSLRw&expires1=1684179649&refer=ODZiOTYzMzMtY2RhZi00MWY2LWFlZWUtYTIwY2NkYTAwZjIz&y=0
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="民視頻道HD",民视新闻台
+https://4gtvfreemobile-mozai.4gtv.tv/4v0MQ9-wIclgjgwsMngQFhiqnWdfe5yuOpFqpk_g0QA%3d/stream2.m3u8?token=bYuiCueXTmNLEMz7h2SjGA&expires=1684150849&token1=pLXF0xFGd5egjPQz763Eyw&expires1=1684179649&refer=MGRiNTc1ZGQtY2Q3Yy00OWUwLTg5OWItNGQ2YjI3ZDc2OTdm&y=0
+#EXTINF:-1 tvg-name="民視影劇台" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="民視頻道HD",民視影劇台
+https://4gtvfreemobile-mozai.4gtv.tv/4v0MQ9-wIclgjgwsMngQFso9VDcHg0J4ienypB-i1dM%3d/stream2.m3u8?token=bI-tLX0lxJ-tTBjwLJhTrQ&expires=1684150849&token1=Yyp3aT6r55NtzGDhqNl5Uw&expires1=1684179649&refer=N2JkMGE3ZmEtMmMyYy00ZjRmLTllYjctOTE0MGRlODMxOTg1&y=0
+#EXTINF:-1 tvg-name="民视综艺台" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" group-title="民視頻道HD",民视综艺台
+https://4gtvfreemobile-mozai.4gtv.tv/TmAV1YLV73zjyELhpOf4CVYS19e3W7I6NXH-w2HSqrk%3d/stream2.m3u8?token=FA7OcXDOTONtV5xJDPWBJA&expires=1684150849&token1=w7Od5dIv92q0oR57r4oE6A&expires1=1684179649&refer=YWNmMWJjZmYtODJjMi00ZjMyLWJlMzItNzExNTFiNjQ2YjEw&y=0
+#EXTINF:-1 tvg-name="民视旅游台" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="民視頻道HD",民视旅游台
+https://4gtvfreemobile-mozai.4gtv.tv/4v0MQ9-wIclgjgwsMngQFiukp5ghCN2s4OVwHjTBcRM%3d/stream2.m3u8?token=J1C7mcv_3VPl1C0Dl5Wu1g&expires=1684150849&token1=kSDTTxfDT9ELxqqV-Lx8_w&expires1=1684179649&refer=NTJkZTk3OWUtZDM0Ni00NmY3LTkyYzctMmU0MWYwYzMxMGE5&y=0
