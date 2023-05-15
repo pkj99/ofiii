@@ -74,6 +74,8 @@ jobs:
           git checkout -b channel
           git add *.m3u
           git commit -m "Update channel"
-          git push
+          # git push -f -u origin channel
+          git push --set-upstream origin channel
+
           # git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
           # git push -f -u origin channel
