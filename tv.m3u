@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" tvg-name="台視" group-title="ofiii",台視
+https://ocean.ofiii.com/hls/v1/playlist/RShYKpKOwEI/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" tvg-name="中視" group-title="ofiii",中視
+https://ocean.ofiii.com/hls/v1/playlist/maxi2j9ECb8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" tvg-name="華視" group-title="ofiii",華視
+https://ocean.ofiii.com/hls/v1/playlist/Cw6obtjrB_o/master.m3u8
