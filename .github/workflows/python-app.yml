@@ -1,4 +1,4 @@
-name: ofiii channels by main.py
+name: main.py
 
 on:
   schedule:
