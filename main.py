@@ -65,11 +65,11 @@ channels = [
 ]
 
 
-channels = [
-    {'title': '台視', 'id': '4gtv-4gtv066', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png'}, 
-    {'title': '中視', 'id': '4gtv-4gtv040', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png'}, 
-    {'title': '華視', 'id': '4gtv-4gtv041', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png'} 
-]
+# channels = [
+#     {'title': '台視', 'id': '4gtv-4gtv066', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png'}, 
+#     {'title': '中視', 'id': '4gtv-4gtv040', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png'}, 
+#     {'title': '華視', 'id': '4gtv-4gtv041', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png'} 
+# ]
 
 
 def get4gtvM3u8(mediaType,id):
