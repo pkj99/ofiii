@@ -50,10 +50,10 @@ jobs:
 
       - name: Git push assets to "channel" branch
         run: |
+          git checkout -b channel
           git init
           git config --local user.name "actions"
           git config --local user.email "action@github.com"
-          git checkout -b channel
           git add .
           git commit -m "Update channel"
           git push --set-upstream origin channel
