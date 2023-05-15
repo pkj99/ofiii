@@ -1,0 +1,4 @@
+OfiiiTV,#genre#
+台視,https://ocean.ofiii.com/hls/v1/playlist/hhAydYK3cnI/master.m3u8
+中視,https://ocean.ofiii.com/hls/v1/playlist/Ly1TY8BVEP0/master.m3u8
+華視,https://ocean.ofiii.com/hls/v1/playlist/OPKHQVgpHPo/master.m3u8
