@@ -57,7 +57,7 @@ channels = [
     {'title': '台灣X檔案', 'id': 'ofiii151', 'image': 'https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii165_tv_20221111.png'}, 
     {'title': '大叔的愛', 'id': 'ofiii161', 'image': 'https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii175_tv_20221111.png'}, 
     {'title': 'SiCAR愛車酷', 'id': 'ofiii181', 'image': 'https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel181_tv_20221227.png'},
-    {'title': 'Auto-Online 汽車線上情報誌', 'id': 'ofiii182', 'image': 'https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel182_tv_20221227.png'}, 
+    {'title': '汽車線上情報誌', 'id': 'ofiii182', 'image': 'https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel182_tv_20221227.png'}, 
     {'title': '統哥 嗜駕Pit63', 'id': 'ofiii183', 'image': 'https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel183_tv_20221226.png'}, 
     {'title': 'CARLINK鏈車網', 'id': 'ofiii184', 'image': 'https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel184_tv_20230214.png'}, 
     {'title': '蒙福人生', 'id': 'ofiii191', 'image': 'https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii185_tv_20221110.png'}, 
@@ -139,7 +139,6 @@ def main():
         j = json.loads(x)
         # link = j['VideoURL'].replace("master.m3u8", "stream2.m3u8")
         link = j['VideoURL']
-        # link = 'https://pkj99.github.io/ofiii/'+title+'.m3u8'
 
         image = "https://www.ftv.com.tw/images/Ch_"+id+".png"
         
