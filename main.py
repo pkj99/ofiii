@@ -137,11 +137,13 @@ def main():
         data = resp.text
         x = data.replace("channelname(", "").replace(")", "")
         j = json.loads(x)
-        link = j['VideoURL'].replace("master.m3u8", "stream2.m3u8")
+        # link = j['VideoURL'].replace("master.m3u8", "stream2.m3u8")
+        link = j['VideoURL']
+        # link = 'https://pkj99.github.io/ofiii/'+title+'.m3u8'
+
         image = "https://www.ftv.com.tw/images/Ch_"+id+".png"
         
-        link = 'https://pkj99.github.io/ofiii/'+title+'.m3u8'
-        
+
         out += '#EXTINF:-1 tvg-name="'+title+'" tvg-logo="'+image + '" group-title="民視頻道",'+title+'\n'+link + '\n'
         txt += title + ','+ link + '\n'
 
