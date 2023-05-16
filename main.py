@@ -64,14 +64,6 @@ channels = [
     {'title': '生命的贏家', 'id': 'ofiii192', 'image': 'https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png'}
 ]
 
-
-# channels = [
-#     {'title': '台視', 'id': '4gtv-4gtv066', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png'}, 
-#     {'title': '中視', 'id': '4gtv-4gtv040', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png'}, 
-#     {'title': '華視', 'id': '4gtv-4gtv041', 'image': 'https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png'} 
-# ]
-
-
 def get4gtvM3u8(mediaType,id):
     url = 'https://api.ofiii.com/cdi/v3/rpc'
     payload = {"jsonrpc":"2.0","id":123,"method":"LoadService.GetURLs","params":{"device_type":"pc"}}
@@ -107,7 +99,6 @@ def getOfiiiM3u8(id):
     m3u8 = get4gtvM3u8(mediaType,id)
     return m3u8
 
-
 def main():
     out = '#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"\n'
     txt = '歐飛頻道,#genre#\n'
@@ -121,7 +112,7 @@ def main():
         else:
             mediaType = "vod-channel"
             m3u8 = getOfiiiM3u8(id)
-        out = out+'#EXTINF:-1 tvg-logo="'+ image + '" tvg-name="'+title+'" group-title="ofiii",'+title+'\n'+m3u8 + '\n'
+        out = out+'#EXTINF:-1 tvg-logo="'+ image + '" tvg-name="'+title+'" group-title="歐飛頻道",'+title+'\n'+m3u8 + '\n'
         txt += title + ','+ m3u8 + '\n'
 
         outFile = title+'.m3u8'
@@ -148,8 +139,10 @@ def main():
         j = json.loads(x)
         link = j['VideoURL'].replace("master.m3u8", "stream2.m3u8")
         image = "https://www.ftv.com.tw/images/Ch_"+id+".png"
-
-        out += '#EXTINF:-1 tvg-name="'+title+'" tvg-logo="'+image + '" group-title="民視頻道HD",'+title+'\n'+link + '\n'
+        
+        link = 'https://pkj99.github.io/ofiii/'+title+'.m3u8'
+        
+        out += '#EXTINF:-1 tvg-name="'+title+'" tvg-logo="'+image + '" group-title="民視頻道",'+title+'\n'+link + '\n'
         txt += title + ','+ link + '\n'
 
         outFile = title+'.m3u8'
