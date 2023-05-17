@@ -111,7 +111,7 @@ def main():
             m3u8 = get4gtvM3u8(mediaType,id)
         else:
             mediaType = "vod-channel"
-            m3u8 = getOfiiiM3u8(id)
+            # m3u8 = getOfiiiM3u8(id)   # 暫時取消
         out = out+'#EXTINF:-1 tvg-logo="'+ image + '" tvg-name="'+title+'" group-title="歐飛頻道",'+title+'\n'+m3u8 + '\n'
         txt += title + ','+ m3u8 + '\n'
 
