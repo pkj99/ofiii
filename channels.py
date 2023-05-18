@@ -50,7 +50,7 @@ def genChannels():
 
     # print(vodChannels)
     with open("channels.json",'w',encoding='utf-8') as f:
-        f.write(json.dumps(vodChannels, ensure_ascii=False))
+        f.write(json.dumps(vodChannels, ensure_ascii=False, indent=4))
     f.close()
 
     return
