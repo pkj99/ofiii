@@ -1,129 +1,129 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" tvg-name="台視" group-title="歐飛頻道",台視
-https://ocean.ofiii.com/hls/v1/playlist/RZaWCszx6EI/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/DsNHZ6qOTt8/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" tvg-name="中視" group-title="歐飛頻道",中視
-https://ocean.ofiii.com/hls/v1/playlist/vck4ArzYnBc/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/D6jLdly1t0I/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" tvg-name="華視" group-title="歐飛頻道",華視
-https://ocean.ofiii.com/hls/v1/playlist/SSjRsALD-ZU/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/QIFu76YCdGM/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" tvg-name="好消息2台" group-title="歐飛頻道",好消息2台
-https://ocean.ofiii.com/hls/v1/playlist/xT9tCJc4Nms/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/jtXw72b2Aog/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" tvg-name="好消息" group-title="歐飛頻道",好消息
-https://ocean.ofiii.com/hls/v1/playlist/YuPuY5yugbI/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/jB9GCGjrZ_8/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" tvg-name="ELTV生活英語台" group-title="歐飛頻道",ELTV生活英語台
-https://ocean.ofiii.com/hls/v1/playlist/eMoCfTyt9UY/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/9NQaSD5R7Pw/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_tv.png" tvg-name="龍華卡通台" group-title="歐飛頻道",龍華卡通台
-https://ocean.ofiii.com/hls/v1/playlist/aQjsnywFojQ/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/O_a9ZIzY9hQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" tvg-name="哆啦Ａ夢台" group-title="歐飛頻道",哆啦Ａ夢台
 
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" tvg-name="亞洲旅遊台" group-title="歐飛頻道",亞洲旅遊台
-https://ocean.ofiii.com/hls/v1/playlist/szGJPFIR8tA/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/k5vOHklZdIE/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" tvg-name="Smart知識台" group-title="歐飛頻道",Smart知識台
-https://ocean.ofiii.com/hls/v1/playlist/h01bPDUtj-o/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/myvx9z3R03Y/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel35_tv_20201019.png" tvg-name="年代MUCH綜藝台" group-title="歐飛頻道",年代MUCH綜藝台
-https://ocean.ofiii.com/hls/v1/playlist/BHUfOPFxS1M/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/7qZ6wYxz-JY/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" tvg-name="龍華戲劇台" group-title="歐飛頻道",龍華戲劇台
-https://ocean.ofiii.com/hls/v1/playlist/t6GcaJ_9M5I/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/EdiAaULUayY/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" tvg-name="台灣戲劇台" group-title="歐飛頻道",台灣戲劇台
-https://ocean.ofiii.com/hls/v1/playlist/7RGcOCqrSAw/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/7ftfpFGRycY/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" tvg-name="Focus風采戲劇台" group-title="歐飛頻道",Focus風采戲劇台
 
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png" tvg-name="東森購物1台" group-title="歐飛頻道",東森購物1台
-https://ocean.ofiii.com/hls/v1/playlist/atK0vQIGlTU/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/5R8FYalkEys/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" tvg-name="龍華偶像台" group-title="歐飛頻道",龍華偶像台
-https://ocean.ofiii.com/hls/v1/playlist/T4FA33pJvxk/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/t1ob5aZsz_U/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" tvg-name="龍華日韓台" group-title="歐飛頻道",龍華日韓台
-https://ocean.ofiii.com/hls/v1/playlist/Kvo0DUZAt3w/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/YG3Hq39FjtI/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel050_tv.png" tvg-name="Yes娛樂" group-title="歐飛頻道",Yes娛樂
 
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png" tvg-name="東森購物2台" group-title="歐飛頻道",東森購物2台
-https://ocean.ofiii.com/hls/v1/playlist/RAO-CrMu27k/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/HpZ3I3VW1J8/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" tvg-name="掏掏新聞" group-title="歐飛頻道",掏掏新聞
 
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" tvg-name="華視新聞" group-title="歐飛頻道",華視新聞
-https://ocean.ofiii.com/hls/v1/playlist/Q5UdXeIUoMg/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/NUNWBu-fu7Y/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" tvg-name="寰宇財經台" group-title="歐飛頻道",寰宇財經台
-https://ocean.ofiii.com/hls/v1/playlist/U33pX9qUJpw/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/RMbjac6aWKY/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" tvg-name="台視新聞" group-title="歐飛頻道",台視新聞
-https://ocean.ofiii.com/hls/v1/playlist/p4-Zlchmu9E/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/RtWFnbdq7Wg/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" tvg-name="中視新聞" group-title="歐飛頻道",中視新聞
-https://ocean.ofiii.com/hls/v1/playlist/5jIf3FaqBC0/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/i1E0JHm3jP4/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" tvg-name="中天新聞台" group-title="歐飛頻道",中天新聞台
-https://ocean.ofiii.com/hls/v1/playlist/_t0T_fusAcQ/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/K8I__gFppBQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" tvg-name="寰宇新聞台灣台" group-title="歐飛頻道",寰宇新聞台灣台
-https://ocean.ofiii.com/hls/v1/playlist/XdgxmJOVS44/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/bgD6KW-yYl4/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" tvg-name="寰宇新聞台" group-title="歐飛頻道",寰宇新聞台
-https://ocean.ofiii.com/hls/v1/playlist/Xhiw7fZFzRc/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/VMY2FzPCHNA/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png" tvg-name="第1財經" group-title="歐飛頻道",第1財經
-https://ocean.ofiii.com/hls/v1/playlist/jB8xJA03FTA/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/drMc662dYsg/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" tvg-name="第1商業台" group-title="歐飛頻道",第1商業台
-https://ocean.ofiii.com/hls/v1/playlist/Yo66f114tfY/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/io_ub4DPzzE/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_tv.png" tvg-name="國會頻道1台" group-title="歐飛頻道",國會頻道1台
-https://ocean.ofiii.com/hls/v1/playlist/_zKSwO0h9Bk/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/ax5USYFiaFs/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_tv.png" tvg-name="國會頻道2台" group-title="歐飛頻道",國會頻道2台
-https://ocean.ofiii.com/hls/v1/playlist/1mfDduAdtRc/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/VW062m7N2Hw/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" tvg-name="龍華經典台" group-title="歐飛頻道",龍華經典台
-https://ocean.ofiii.com/hls/v1/playlist/BnNuLClilGU/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/MXWwUsrlPeg/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" tvg-name="龍華電影台" group-title="歐飛頻道",龍華電影台
-https://ocean.ofiii.com/hls/v1/playlist/AMehXvybou8/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/qOoT5jelus4/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii74_tv_20230116.png" tvg-name="歐飛電影台" group-title="歐飛頻道",歐飛電影台
-https://ocean.ofiii.com/hls/v1/playlist/k2m1KfWPaZY/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/Rc7kE1JBxSg/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" tvg-name="Focus探索新知台" group-title="歐飛頻道",Focus探索新知台
-https://ocean.ofiii.com/hls/v1/playlist/KpfmLzdDDao/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/pagHG9jWsZ4/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii87_tv_20221110.png" tvg-name="東森購物快閃台" group-title="歐飛頻道",東森購物快閃台
-https://ocean.ofiii.com/hls/v1/playlist/TC1w3lZHooo/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/lPNP8JDiIFE/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii98_tv_20230412.png" tvg-name="LiTV 好康優惠" group-title="歐飛頻道",LiTV 好康優惠
-https://ocean.ofiii.com/hls/v1/playlist/jk__NwPCl1U/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/03SNP2tHatc/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png" tvg-name="銀髮聚樂部" group-title="歐飛頻道",銀髮聚樂部
-https://ocean.ofiii.com/hls/v1/playlist/vgmz-2t73XU/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/z-3nwTixnsw/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_tv_20230329.png" tvg-name="琅琊榜" group-title="歐飛頻道",琅琊榜
-https://ocean.ofiii.com/hls/v1/playlist/eAGxfnPK_GA/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/NAeQ5fN2reY/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii102_tv_20230329.png" tvg-name="山河月明" group-title="歐飛頻道",山河月明
-https://ocean.ofiii.com/hls/v1/playlist/Xr3Nw6oN6w4/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/mcCsKesaqZQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii115_tv_20230329.png" tvg-name="三十而已" group-title="歐飛頻道",三十而已
-https://ocean.ofiii.com/hls/v1/playlist/zmogD6RCHlQ/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/p7Rc0nefKuY/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" tvg-name="去有風的地方" group-title="歐飛頻道",去有風的地方
-https://ocean.ofiii.com/hls/v1/playlist/dzW-aS5oBt0/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/rGGbCwFko3Y/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" tvg-name="綜藝玩很大" group-title="歐飛頻道",綜藝玩很大
-https://ocean.ofiii.com/hls/v1/playlist/77UH2_CMqss/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/dw6lFONXJMY/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" tvg-name="全民星攻略" group-title="歐飛頻道",全民星攻略
-https://ocean.ofiii.com/hls/v1/playlist/v-GerFL8OkE/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/VWqmSqG2XL0/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii132_tv_20230329.png" tvg-name="台灣1001個故事" group-title="歐飛頻道",台灣1001個故事
-https://ocean.ofiii.com/hls/v1/playlist/JqUHVyjoSlQ/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/KCeBPHoNWs8/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii133_tv_20230329.png" tvg-name="台灣啟示錄" group-title="歐飛頻道",台灣啟示錄
-https://ocean.ofiii.com/hls/v1/playlist/adhbUE3kh-o/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/2-9GvEvNiq0/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii146_tv_20221111.png" tvg-name="歡迎來到第2人生" group-title="歐飛頻道",歡迎來到第2人生
-https://ocean.ofiii.com/hls/v1/playlist/XEAJYseCdtQ/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/3izhsb3p1Z4/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii147_tv_20221111.png" tvg-name="大發不動產" group-title="歐飛頻道",大發不動產
-https://ocean.ofiii.com/hls/v1/playlist/2JXRZXRTsvA/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/kX9KDJaIvwU/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii151_tv_20221115.png" tvg-name="檢法男女2" group-title="歐飛頻道",檢法男女2
 
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii165_tv_20221111.png" tvg-name="台灣X檔案" group-title="歐飛頻道",台灣X檔案
-https://ocean.ofiii.com/hls/v1/playlist/lDzoKHzMA8Y/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/SIpnGpj7UmU/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii175_tv_20221111.png" tvg-name="大叔的愛" group-title="歐飛頻道",大叔的愛
 
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel181_tv_20221227.png" tvg-name="SiCAR愛車酷" group-title="歐飛頻道",SiCAR愛車酷
-https://ocean.ofiii.com/hls/v1/playlist/0XxIWFww3Vg/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/NTaM0wQtiaE/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel182_tv_20221227.png" tvg-name="汽車線上情報誌" group-title="歐飛頻道",汽車線上情報誌
-https://ocean.ofiii.com/hls/v1/playlist/Nv90dgZZePM/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/UyD179UWQQw/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel183_tv_20221226.png" tvg-name="統哥 嗜駕Pit63" group-title="歐飛頻道",統哥 嗜駕Pit63
-https://ocean.ofiii.com/hls/v1/playlist/PXm6xMhN85U/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/s7n4jVlxWMA/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel184_tv_20230214.png" tvg-name="CARLINK鏈車網" group-title="歐飛頻道",CARLINK鏈車網
-https://ocean.ofiii.com/hls/v1/playlist/9UxUDU3CA14/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/bHU2vz-TOs0/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii185_tv_20221110.png" tvg-name="蒙福人生" group-title="歐飛頻道",蒙福人生
-https://ocean.ofiii.com/hls/v1/playlist/SQpij4y7kDQ/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/Mpdq-zDGueI/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png" tvg-name="生命的贏家" group-title="歐飛頻道",生命的贏家
-https://ocean.ofiii.com/hls/v1/playlist/tcBiGaaxybA/master.m3u8
+https://ocean.ofiii.com/hls/v1/playlist/ve_HOHsgVjw/master.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="民視頻道",民视
-https://4gtvfreemobile-mozai.4gtv.tv/3L_eN8vOZB3eSfk3WywTlaWU9f3XJivHFCCQ7wHb6Ks%3d/master.m3u8?token=jYwNXL0EuS5MgrS5a8u8IQ&expires=1688911373&token1=0Y4tRq6Rw9u6tKiWCja4IQ&expires1=1688940173&refer=OTBhZWIxMzgtOWQ0MC00MmY4LWEyYjMtZTU0ZmZjZTAwNzZm&y=0
+https://4gtvfreemobile-mozai.4gtv.tv/syzsZ__aeysr9oo0Z92_uQesXFZxYPQefvmZkOFRZbc%3d/master.m3u8?token=yndXL4fMWEaSL1QVjZ4t2w&expires=1688918972&token1=hlY8IGTOgz2ZlikYdBmxmg&expires1=1688947772&refer=NGM0YTcyODEtNDFlYi00N2UxLTkyMWQtY2Y5M2I1ZTIwYTYw&y=0
 #EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="民視頻道",民视第一台
-https://4gtvfreemobile-mozai.4gtv.tv/_WxqxZHQTZQ9zUfKAlsT7BEJLTq3qwrlmKbydf1dBKA%3d/master.m3u8?token=6mBPEwGndQIPClTx7C0Rag&expires=1688911374&token1=3572LdIMpiPkpCpZUdxCgw&expires1=1688940174&refer=ODQ0OTY2YWItMzQ1MS00ZTM4LWJiY2MtNzI3Nzk1MmYzZTE4&y=0
+https://4gtvfreemobile-mozai.4gtv.tv/ShRsU9Yt0Ryjrln2R7fI44NJBZqBbGDiUMtYkuVg5fc%3d/master.m3u8?token=4P8u_3Z88S1E14aY5FIvqw&expires=1688918973&token1=h_AZLXMpr0v9SmSYp_-yBA&expires1=1688947773&refer=MGU3Y2Q1YjEtYTI5YS00MTgzLWJjZmItODNkNzEwNGQ3NmUw&y=0
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="民視頻道",民视台湾台
-https://4gtvfreemobile-mozai.4gtv.tv/QFrPiigNX7U0DhEYKIlnLWuv4VWKIeTmwnSAlf14jKw%3d/master.m3u8?token=hLUIU1Y12Z0mV7XvU1l0mw&expires=1688911375&token1=_EGkcp1r5JKI5a_CDhnD9Q&expires1=1688940175&refer=MjU3NTJiNjctZjVkNi00N2UwLTk0NmMtZjhkMWNmZDBhMDdi&y=0
+https://4gtvfreemobile-mozai.4gtv.tv/fJCJnDzeCu6ZMrL6yaj159jMcxi6H3D4Wx2eWTtkfHk%3d/master.m3u8?token=teAyTv21I46FFJZJhYHheQ&expires=1688918974&token1=S4P38cC8hknGTeObSYVuuw&expires1=1688947774&refer=MjQ0MTNiMmItYzA0MC00MWQzLTgwMjktMzVlZTNhNjMyYjhj&y=0
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="民視頻道",民视新闻台
-https://4gtvfreemobile-mozai.4gtv.tv/F5Q-HAvahsYZm13OB8nofWK1j1gMOgvaEypsowMHFVg%3d/master.m3u8?token=SeDztRp-yqdgWhz6bCOLMQ&expires=1688911375&token1=maCMfPRY8J3gPk2WwdVHtQ&expires1=1688940175&refer=ZDBmZTgzYzUtNGYyZC00ZjZkLTk2ZDAtMWZmZGFhMmRlYzY0&y=0
+https://4gtvfreemobile-mozai.4gtv.tv/9tGpfYneOMXsn7XWAZczf61Yah1Rz1rE6dSFbgwPXhw%3d/master.m3u8?token=Pb4aOuHE5Ld3SYTUeITl5A&expires=1688918974&token1=7NFbIIf8hstdo6A7P63iLw&expires1=1688947774&refer=NGNhYzMzY2ItNjdmZC00MDBhLTljZmItMWJiZWUyZGQyOWI0&y=0
 #EXTINF:-1 tvg-name="民視影劇台" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="民視頻道",民視影劇台
-https://4gtvfreemobile-mozai.4gtv.tv/NhipFxE-q0Wz4lGWAFPh6IxjQstZNnS-MA2qBjgmdvs%3d/master.m3u8?token=BqhqK54VI5Y6ZdOuccANuA&expires=1688911376&token1=MhOiUYEX22dXoZNrjN2PCA&expires1=1688940176&refer=MWU0MGM1ZDYtOTBkZC00ODJlLTk1MWMtOThjNmQ1NDZmM2Zi&y=0
+https://4gtvfreemobile-mozai.4gtv.tv/nXiiiKADFfuNGfAin5LEaTnsHyN7TNZeiUXG6gp9GuQ%3d/master.m3u8?token=7RpbnyZsnkxAlt2Te8xu2A&expires=1688918975&token1=RhJkTFg3Nd7D9xnapvtAyA&expires1=1688947775&refer=MzRiNjM3ZTktZGJkMy00YzBlLTg4NTMtMGI2MWRjODQ4MzU0&y=0
 #EXTINF:-1 tvg-name="民视综艺台" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" group-title="民視頻道",民视综艺台
-https://4gtvfreemobile-mozai.4gtv.tv/4T298DArGNtbCHw8R3z_0PURulR81Lffs6m7YHeEkoM%3d/master.m3u8?token=a-pOuds1aTTFbMRrDwvQFQ&expires=1688911376&token1=yD2CKWEbwsWVXdlX8NnU8w&expires1=1688940176&refer=MmM3Nzk3MWMtN2I2Yy00ZTFlLWFlNTQtNzcyNTJkOTViZjk1&y=0
+https://4gtvfreemobile-mozai.4gtv.tv/kbsdo29zdHgs6zaPA1yzwxikyIY6LSLnW9f9T2x6ghA%3d/master.m3u8?token=nSsSWUZdQ9covZ7co54ilw&expires=1688918976&token1=1Iq-EK6fy7h8PGJn0EPsuw&expires1=1688947776&refer=NjllYmMxOGItMWE5Ni00YWNlLWFhZjctMGQ2NTgzNzI5Yzhj&y=0
 #EXTINF:-1 tvg-name="民视旅游台" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="民視頻道",民视旅游台
-https://4gtvfreemobile-mozai.4gtv.tv/qOc50-wohG0ofeRKXqlQBlnXRHI7XrNFdFay_U55ceM%3d/master.m3u8?token=4AgWajBDsBt18QoO_jMrpg&expires=1688911377&token1=BDQRqHui7LTURkLUE90YoQ&expires1=1688940177&refer=NzkwN2Y4OTMtZTQxNC00YWJjLWJkY2YtZDNlYWRjODdjYjEx&y=0
+https://4gtvfreemobile-mozai.4gtv.tv/J19qRAmnG4CIEsopldRB3witJLWcUSuhSGnMIwUzcIs%3d/master.m3u8?token=36bXiWdVlAtMEL0M8xHC-A&expires=1688918976&token1=vjMy9pW5OWZZtlv_d6erGA&expires1=1688947776&refer=MjJiOGZmMDgtMDY3My00OTEzLThkZjItMjBlODAwOTFhOTdk&y=0
